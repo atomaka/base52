@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
-  s.name        = 'Base 52'
-  s.version     = '0.0.1'
+  s.name        = 'base52'
+  s.version     = '2'
   s.date        = '2012-09-24'
   s.summary     = 'Encode and Decode Base 52 Values'
   s.description = 'Implement functionality to the base Integer class to convert
