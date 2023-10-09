@@ -1,14 +1,14 @@
-#Base52
+# Base52
 
 Encode and Decode Base 52 Values
 
-##Description
+## Description
 
 Implement functionality to the base Integer class to convert an integer into an equivalent base 52 string using the character set 0-9, A-Z, a-z excluding 
 vowels.  Additionally, implement functionality to the base String class to 
 convert a base 52 string back to an integer.
 
-##Install
+## Install
 
 ```
 $ gem install base52
@@ -26,7 +26,7 @@ require 'base52'
 => 1000000000
 ```
 
-##License
+## License
 
 The MIT License
 
